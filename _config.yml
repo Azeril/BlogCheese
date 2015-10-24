@@ -1,7 +1,7 @@
 # Site settings
-title: CHeese
-description: A test template for Jekyll
-keywords: Modern, Blogging, Fun
+title: Cheese
+description: love me less, but love me for a long
+keywords: Just walk, with me  
 author: Azeril
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://cheese.azeril.me" # 
